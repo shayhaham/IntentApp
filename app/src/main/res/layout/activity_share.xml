@@ -15,7 +15,7 @@
         android:gravity="center">
 
     <EditText
-        android:id="@+id/shareEditText"
+        android:id="@+id/shareTextEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter text to share" />
@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Share"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="16dp" />
     </LinearLayout>
 
 
